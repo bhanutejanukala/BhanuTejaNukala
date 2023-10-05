@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanutejanukala&show_icons=true&locale=en&layout=compact" alt="bhanutejanukala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanutejanukala&" alt="bhanutejanukala" /></p>
