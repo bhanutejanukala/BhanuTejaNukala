@@ -1,3 +1,5 @@
+<p> 
+<img src="https://github.com/bhanutejanukala/BhanuTejaNukala/blob/main/Github%20Banner.png" width="600" align="center" > </p>
 <h1 align="center">Hi 👋, I'm Bhanu Teja Nukala</h1>
 <h3 align="center">Data Science Student</h3>
 
