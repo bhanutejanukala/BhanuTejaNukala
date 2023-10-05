@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanutejanukala&label=Profile%20views&color=0e75b6&style=flat" alt="bhanutejanukala" /> </p>
 
-- 🌱 I’m currently learning **NlP, Machine Learning, Deep Learning, Time Series, Power BI,**
+- 🌱 I’m currently learning **NlP, Machine Learning, Data Visualization.**
 
 - 👨‍💻 All of my projects are available at [https://bhanutejanukala.github.io/BHANU-TEJA-NUKALA-PORTFOLIO/](https://bhanutejanukala.github.io/BHANU-TEJA-NUKALA-PORTFOLIO/)
 
